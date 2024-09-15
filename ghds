@@ -1,10 +1,11 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Restaurants</title>
-    <link rel="stylesheet" href="/style.css">
+    <title>Hospital</title>
+    <link rel="stylesheet" href="/styles.css">
 </head>
 <body>
     <!-- Contributions -->
@@ -15,18 +16,121 @@
     <section class="contributors" id="contribution">
         <div class="concard">
             <img
-                src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Apollo_Hospitals_Logo.svg/800px-Apollo_Hospitals_Logo.svg.png"
-                alt="apollo hospitals"
+                src="https://pbs.twimg.com/profile_images/1684511116716920833/owuT8U7P_400x400.jpg"
+                alt="Apollo Hospital"
                 class="pfp"
             />
             <div class="text">
-                <h1>Apollo Hospitals</h1>
+                <h1>Apollo Hospital</h1>
             </div>
             <div class="logolink">
                 <a href="https://www.apollohospitals.com/" target="_blank"
                     ><img
-                        src="https://classpass.my.site.com/help/servlka3PA00"
-                        alt="Hospital"
+                        src="https://classpass.my.site.com/help/servlet/rtaImage?eid=ka3PA000001Meue&feoid=00NPA00000125vu&refid=0EM4v000002mafR"
+                        alt="Hospital-logo"
+                        class="Hospital-logo"
+                /></a>
+            </div>
+        </div>
+
+
+        <div class="concard">
+            <img
+                src="https://upload.wikimedia.org/wikipedia/en/3/3e/Kauvery_Hospital_logo.png"
+                alt="Kauvery Hospital"
+                class="pfp"
+            />
+            <div class="text">
+                <h1>Kauvery Hospital</h1>
+            </div>
+            <div class="logolink">
+                <a href="https://www.kauveryhospital.com/" target="_blank"
+                    ><img
+                        src="https://classpass.my.site.com/help/servlet/rtaImage?eid=ka3PA000001Meue&feoid=00NPA00000125vu&refid=0EM4v000002mafR"
+                        alt="Hospital-logo"
+                        class="Hospital-logo"
+                /></a>
+            </div>
+        </div>
+
+        <div class="concard">
+            <img
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS74jXaFpG46exyXBpsJihJ1GUjOofDXMDjxA&s"
+                alt="SIMS Hospitals"
+                class="pfp"
+            />
+            <div class="text">
+                <h1>SIMS Hospitals</h1>
+            </div>
+            <div class="logolink">
+                <a href="https://simshospitals.com/" target="_blank"
+                    ><img
+                        src="https://classpass.my.site.com/help/servlet/rtaImage?eid=ka3PA000001Meue&feoid=00NPA00000125vu&refid=0EM4v000002mafR"
+                        alt="Hospital-logo"
+                        class="Hospital-logo"
+                /></a>
+            </div>
+        </div>
+
+        <div class="concard">
+            <img
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfy9wwJ9a5ZekWwbcMvUcvCmaGZLwNS12ffQ&s"
+                alt="Dr.Mehta's Hospitals"
+                class="pfp"
+            />
+            <div class="text">
+                <h1>Dr.Mehta's Hospitals</h1>
+            </div>
+            <div class="logolink">
+                <a href="https://mehtahospital.com/" target="_blank"
+                    ><img
+                        src="https://classpass.my.site.com/help/servlet/rtaImage?eid=ka3PA000001Meue&feoid=00NPA00000125vu&refid=0EM4v000002mafR"
+                        alt="Hospital-logo"
+                        class="Hospital-logo"
+                /></a>
+            </div>
+        </div>
+
+        <div class="concard">
+            <img
+                src="https://pbs.twimg.com/profile_images/851768379161497600/VilhmhXk_400x400.jpg"
+                alt="Prashanth Super Speciality Hospital"
+                class="pfp"
+            />
+            <div class="text">
+                <h1>Prashanth Super Speciality Hospital</h1>
+            </div>
+            <div class="logolink">
+                <a href="https://prashanthhospitals.org/" target="_blank"
+                    ><img
+                        src="https://classpass.my.site.com/help/servlet/rtaImage?eid=ka3PA000001Meue&feoid=00NPA00000125vu&refid=0EM4v000002mafR"
+                        alt="Hospital-logo"
+                        class="Hospital-logo"
+                /></a>
+            </div>
+        </div>
+        
+    </section>
+    <!-- Contributions -->
+    <div class="title">
+        <h1 class="font-color">Hospitals</h1>
+        <div class="line"></div>
+    </div>
+    <section class="contributors" id="contribution">
+        <div class="concard">
+            <img
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfy9wwJ9a5ZekWwbcMvUcvCmaGZLwNS12ffQ&s"
+                alt="Dr.Mehta's Hospitals"
+                class="pfp"
+            />
+            <div class="text">
+                <h1>Dr.Mehta's Hospitals</h1>
+            </div>
+            <div class="logolink">
+                <a href="https://mehtahospital.com/" target="_blank"
+                    ><img
+                        src="https://classpass.my.site.com/help/servlet/rtaImage?eid=ka3PA000001Meue&feoid=00NPA00000125vu&refid=0EM4v000002mafR"
+                        alt="Hospital-logo"
                         class="Hospital-logo"
                 /></a>
             </div>
@@ -108,152 +212,9 @@
                 /></a>
             </div>
         </div>
+        
     </section>
-    <!-- Contributions -->
-    <div class="title">
-        <h1 class="font-color1">Clinics in Chennai</h1>
-        <div class="line"></div>
-    </div>
-    <section class="contributors" id="contribution">
-        <div class="concard">
-            <img
-                src="https://medagghealthcare.com/wp-content/uploads/2022/04/httpsimage3.mouthshut.comimagesimagesp925810222s.jpg"
-                alt="Seethapathy Clinic & Hospital"
-                class="pfp"
-            />
-            <div class="text">
-                <h1>Seethapathy Clinic & Hospital</h1>
-            </div>
-            <div class="logolink">
-                <a href="https://seethapathyclinic.org/" target="_blank"
-                    ><img
-                        src="https://classpass.my.site.com/help/servlet/rtaImage?eid=ka3PA000001Meue&feoid=00NPA00000125vu&refid=0EM4v000002mafR"
-                        alt="Hospital"
-                        class="Hospital-logo"
-                /></a>
-            </div>
-        </div>
-
-        <div class="concard">
-            <img
-                src="https://lh3.googleusercontent.com/p/AF1QipN49CqVSbGQkWa4KoccGsaqmGoBYw9QsoEMKF3u=s1360-w1360-h1020"
-                alt="24 HOURS - One Health Clinic"
-                class="pfp"
-            />
-            <div class="text">
-                <h1>24 HOURS - One Health Clinic</h1>
-            </div>
-            <div class="logolink">
-                <a href="https://www.onehealthhospitals.com/" target="_blank"
-                    ><img
-                        src="https://classpass.my.site.com/help/servlet/rtaImage?eid=ka3PA000001Meue&feoid=00NPA00000125vu&refid=0EM4v000002mafR"
-                        alt="Hospital-logo"
-                        class="Hospital-logo"
-                /></a>
-            </div>
-        </div>
-
-        <div class="concard">
-            <img
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJQLzaaGi-qT5iTDjDEf0eoRn3yCHiPZZeqg&s"
-                alt="Padma Clinic & Nursing Home"
-                class="pfp"
-            />
-            <div class="text">
-                <h1>Padma Clinic & Nursing Home</h1>
-            </div>
-            <div class="logolink">
-                <a href="https://padmaclinicandnursinghome.com/" target="_blank"
-                    ><img
-                        src="https://classpass.my.site.com/help/servlet/rtaImage?eid=ka3PA000001Meue&feoid=00NPA00000125vu&refid=0EM4v000002mafR"
-                        alt="Hospital-logo"
-                        class="Hospital-logo"
-                /></a>
-            </div>
-        </div>
-
-        <div class="concard"></div>
-            <img
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK82q4a49Z7DZiPTlpd6swX99NZ85MWuTadw&s"
-                alt="Apollo Clinic"
-                class="pfp"
-            />
-            <div class="text">
-                <h1>Apollo Clinic</h1>
-            </div>
-            <div class="logolink">
-                <a href="https://www.apolloclinic.com/" target="_blank"
-                    ><img
-                        src="https://classpass.my.site.com/help/servlet/rtaImage?eid=ka3PA000001Meue&feoid=00NPA00000125vu&refid=0EM4v000002mafR"
-                        alt="Hospital-logo"
-                        class="Hospital-logo"
-                /></a>
-            </div>
-        </div>
-
-<!-- Contributions -->
-<div class="title">
-    <h1 class="font-color">Pharmacies in Chennai</h1>
-    <div class="line"></div>
-</div>
-<section class="contributors" id="contribution">
-    <div class="concard">
-        <img
-            src="https://play-lh.googleusercontent.com/4nUK6RI1-85QgZoxvFNa7VqdYODH2SKgGrscsvOaI7whyqdS1tRrcp-7YDpMb5A_Mw"
-            alt="LIFECARE PHARMA PVT LTD"
-            class="pfp"
-        />
-        <div class="text">
-            <h1>LIFECARE PHARMA PVT LTD</h1>
-        </div>
-        <div class="logolink">
-            <a href="https://www.lifecarepharma.com/" target="_blank"
-                ><img
-                    src="https://classpass.my.site.com/help/servlet/rtaImage?eid=ka3PA000001Meue&feoid=00NPA00000125vu&refid=0EM4v000002mafR"
-                    alt="Hospital-logo"
-                    class="Hospital-logo"
-            /></a>
-        </div>
-    </div>
-
-
-    <div class="concard">
-        <img
-            src="https://sciencebasedtargets.org/resources/media/_1200x600_crop_center-center_none/AZ.png"
-            alt="AstraZeneca India Pvt Ltd"
-            class="pfp"
-        />
-        <div class="text">
-            <h1>AstraZeneca India Pvt Ltd</h1>
-        </div>
-        <div class="logolink">
-            <a href="https://www.astrazeneca.com/" target="_blank"
-                ><img
-                    src="https://classpass.my.site.com/help/servlet/rtaImage?eid=ka3PA000001Meue&feoid=00NPA00000125vu&refid=0EM4v000002mafR"
-                    alt="Hospital-logo"
-                    class="Hospital-logo"
-            /></a>
-        </div>
-    </div>
-
-    <div class="concard">
-        <img
-            src="https://bsmedia.business-standard.com/_media/bs/img/article/2015-04/29/full/1430302289-8535.jpg?im=FeatureCrop,size=(826,465)"
-            alt="medplus"
-            class="pfp"
-        />
-        <div class="text">
-            <h1>medplus</h1>
-        </div>
-        <div class="logolink">
-            <a href="https://www.medplusmart.com/?srsltid=AfmBOopRZmIAnU93Im_OLQlu3uwLpmd_fHj3QqRnAaDnKqX5tiLtSXez" target="_blank"
-                ><img
-                    src="https://classpass.my.site.com/help/servlet/rtaImage?eid=ka3PA000001Meue&feoid=00NPA00000125vu&refid=0EM4v000002mafR"
-                    alt="Hospital-logo"
-                    class="Hospital-logo"
-            /></a>
-        </div>
-    </div>
-
+    
+    
 </body>
 </html>
